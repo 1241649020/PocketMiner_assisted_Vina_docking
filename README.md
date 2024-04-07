@@ -1,7 +1,6 @@
 Supporting environment:
 
 Ubuntu 20.04
-
 Getting started / installation
 
 1. Deploy the PocketMiner environment and the running environment of this project
