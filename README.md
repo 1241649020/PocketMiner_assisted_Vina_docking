@@ -2,7 +2,9 @@ Supporting environment:
 
 Ubuntu 20.04
 
+
 Getting started / installation
+
 
 1. Deploy the PocketMiner environment and the running environment of this project
 
@@ -38,6 +40,7 @@ Pip install biopandas
 
 Replace the xtal_predict. py file in the original PocketMiner project with the xtal_predict. py file in the repository.
 
+
 2. Install Autodock Tools and Autodock Vina
 
 Download Autodock Tools and install Autodock Vina from the official website.
@@ -45,6 +48,7 @@ Download Autodock Tools and install Autodock Vina from the official website.
 PS: After downloading version 1.2.3 of Autodock Vina, because the new version of Autodock Vina supports multiple docking, this software can call its kernel for multiple docking. However, if you don't need 
 
 multiple docking, it doesn't matter.
+
 
 3. Pull this project and change the configuration
 
@@ -72,11 +76,13 @@ PocketMineer_docking path="/home/xccc/Full_process_script/PacketMineer_docking. 
 
 Python path="/root/miniconda3/envs/pocketminer/bin/Python"
 
+
 4. Operation
 
 Run the command line in the main directory of this project/ You can open the UI interface by clicking on PocketMiner-assisted_Vina_docking_UI or by double clicking on PocketMiner-assisted_Vina_docking_UI. 
 
 Then, simply follow the instructions provided.
+
 
 PS: If you don't need a graphical user interface and want to operate directly from the command line, you can run PocketMiner'full_processs.sh and input: output address, enzyme protein folder address, and 
 
